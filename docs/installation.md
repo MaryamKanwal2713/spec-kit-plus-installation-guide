@@ -11,26 +11,32 @@ This document explains how to install Spec-Kit-Plus safely and correctly.
 
 Install Spec-Kit-Plus globally using pip:
 
-```bash
+~~~bash
 pip install specifyplus
+~~~
+
 Verify installation:
 
-bash
-Copy code
+~~~bash
 sp check
-Alternative Installation Using uv Tool
-bash
-Copy code
+~~~
+
+## Alternative Installation Using uv Tool
+
+~~~bash
 uv tool install specifyplus
+~~~
+
+---
+
 If you want to uninstall Spec-Kit-Plus later:
 
-bash
-Copy code
+~~~bash
 pip uninstall specifyplus
+~~~
+
 or
 
-bash
-Copy code
+~~~bash
 uv tool uninstall specifyplus
-yaml
-Copy code
+~~~

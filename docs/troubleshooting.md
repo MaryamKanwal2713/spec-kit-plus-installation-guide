@@ -11,7 +11,10 @@ Here are common issues you might encounter and how to fix them:
 ## 2. Installation errors
 
 - Check that your Python version is 3.9 or higher.
-- Update pip with: `pip install --upgrade pip`.
+- Update pip with:  
+  ~~~bash
+  pip install --upgrade pip
+  ~~~
 - Try installing again.
 
 ## 3. AI provider issues
